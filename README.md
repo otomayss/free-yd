@@ -6,7 +6,8 @@
 # 如有疑问 请联系我 fqymcu994@outlook.com
 # 稳稳稳
 
-![image](https://github.com/user-attachments/assets/b278f4b1-1e7b-4165-b725-78d67c5adc8b)
+![image](https://github.com/user-attachments/assets/5182d0bd-1a1b-4462-89b4-3677ee195386)
+
 
 
 

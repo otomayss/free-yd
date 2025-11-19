@@ -1,7 +1,7 @@
 # yudao-sql,yudao-cloud,芋道文档，开发指南，技术破解，实时文档
 # yudao 文档解锁 见 https://mg.linpoem.online
 # 如需sql 可进入该链接  一瓶水的价格（由于偶尔要进行更新，所以有一定的费用，不喜勿喷！）
-# 链接 https://linpoem.online/shop
+# 链接 https://88box.top/shop
 # sql保持最新，不必怀疑
 # 如有疑问 请联系我 fqymcu994@outlook.com
 # 稳稳稳
